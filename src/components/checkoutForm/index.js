@@ -1,4 +1,3 @@
-// src/components/checkout/index.js
 import React, { Component } from 'react';
 import { CartContext } from '../../contexts/CartContext';
 import './index.css';

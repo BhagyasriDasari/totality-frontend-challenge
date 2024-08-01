@@ -1,4 +1,3 @@
-// src/components/cartButton/index.js
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { CartContext } from '../../contexts/CartContext';

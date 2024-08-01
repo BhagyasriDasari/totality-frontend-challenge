@@ -1,4 +1,3 @@
-// src/components/propertyCard/index.js
 import React, { Component } from 'react';
 import { CartContext } from '../../contexts/CartContext';
 import './index.css';

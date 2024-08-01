@@ -1,4 +1,3 @@
-/* src/components/propertiesPage/index.css */
 .properties-page {
     padding: 20px;
   }
@@ -24,7 +23,7 @@
     cursor: pointer;
   }
   
-  /* src/components/propertyCard/index.css */
+ 
   .property-card {
     border: 1px solid #ddd;
     border-radius: 5px;

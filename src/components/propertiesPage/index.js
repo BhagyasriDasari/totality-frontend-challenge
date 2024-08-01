@@ -1,4 +1,3 @@
-// src/components/propertiesPage/index.js
 import React, { Component } from 'react';
 import PropertyCard from '../propertyCard';
 import CartButton from '../cartButton';

@@ -1,4 +1,3 @@
-// src/components/withNavigate.js
 import { useNavigate } from 'react-router-dom';
 
 const withNavigate = (Component) => {
