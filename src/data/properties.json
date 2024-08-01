@@ -1,0 +1,405 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Beach House",
+        "description": "A beautiful beach house with a stunning view.",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/1438834/pexels-photo-1438834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Miami, FL",
+        "bedrooms": 3,
+        "amenities": ["pool", "wifi"]
+      },
+      {
+        "id": 2,
+        "title": "Mountain Cabin",
+        "description": "A cozy cabin in the mountains.",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/1795508/pexels-photo-1795508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Denver, CO",
+        "bedrooms": 2,
+        "amenities": ["fireplace", "hot tub"]
+      },
+      {
+        "id": 3,
+        "title": "City Apartment",
+        "description": "A modern apartment in the heart of the city.",
+        "price": 200,
+        "image": "https://images.pexels.com/photos/2090653/pexels-photo-2090653.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "location": "New York, NY",
+        "bedrooms": 1,
+        "amenities": ["gym", "wifi"]
+      },
+      {
+        "id": 4,
+        "title": "Countryside Cottage",
+        "description": "A charming cottage in the countryside.",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1560065/pexels-photo-1560065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Nashville, TN",
+        "bedrooms": 2,
+        "amenities": ["garden", "wifi"]
+      },
+      {
+        "id": 5,
+        "title": "Lakeside Villa",
+        "description": "A luxurious villa by the lake.",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/449461/pexels-photo-449461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Orlando, FL",
+        "bedrooms": 4,
+        "amenities": ["pool", "dock"]
+      },
+      {
+        "id": 6,
+        "title": "Urban Loft",
+        "description": "A chic loft in a trendy urban neighborhood.",
+        "price": 220,
+        "image": "https://images.pexels.com/photos/2194399/pexels-photo-2194399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Los Angeles, CA",
+        "bedrooms": 2,
+        "amenities": ["gym", "wifi"]
+      },
+      {
+        "id": 7,
+        "title": "Suburban Home",
+        "description": "A comfortable family home in the suburbs.",
+        "price": 180,
+        "image": "https://images.pexels.com/photos/2510067/pexels-photo-2510067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Dallas, TX",
+        "bedrooms": 3,
+        "amenities": ["garden", "garage"]
+      },
+      {
+        "id": 8,
+        "title": "Penthouse Suite",
+        "description": "A luxurious penthouse with a panoramic view.",
+        "price": 350,
+        "image": "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "San Francisco, CA",
+        "bedrooms": 3,
+        "amenities": ["roof deck", "wifi"]
+      },
+      {
+        "id": 9,
+        "title": "Riverside Retreat",
+        "description": "A peaceful retreat by the river.",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "location": "Portland, OR",
+        "bedrooms": 2,
+        "amenities": ["dock", "fire pit"]
+      },
+      {
+        "id": 10,
+        "title": "Oceanfront Condo",
+        "description": "A modern condo with ocean views.",
+        "price": 320,
+        "image": "https://images.pexels.com/photos/2371975/pexels-photo-2371975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "San Diego, CA",
+        "bedrooms": 2,
+        "amenities": ["pool", "wifi"]
+      },
+      {
+        "id": 11,
+        "title": "Historic Mansion",
+        "description": "A grand mansion with historical charm.",
+        "price": 400,
+        "image": "https://images.pexels.com/photos/388830/pexels-photo-388830.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "location": "Charleston, SC",
+        "bedrooms": 5,
+        "amenities": ["garden", "fireplace"]
+      },
+      {
+        "id": 12,
+        "title": "Desert Oasis",
+        "description": "A serene retreat in the desert.",
+        "price": 230,
+        "image": "https://images.pexels.com/photos/2653168/pexels-photo-2653168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Phoenix, AZ",
+        "bedrooms": 3,
+        "amenities": ["pool", "garden"]
+      },
+      {
+        "id": 13,
+        "title": "Luxury Chalet",
+        "description": "An upscale chalet with premium amenities.",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/2566860/pexels-photo-2566860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Aspen, CO",
+        "bedrooms": 4,
+        "amenities": ["hot tub", "fireplace"]
+      },
+      {
+        "id": 14,
+        "title": "Gated Community Home",
+        "description": "A secure home in a gated community.",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Atlanta, GA",
+        "bedrooms": 3,
+        "amenities": ["garden", "security"]
+      },
+      {
+        "id": 15,
+        "title": "Modern Villa",
+        "description": "A sleek villa with modern design.",
+        "price": 310,
+        "image": "https://images.pexels.com/photos/7031602/pexels-photo-7031602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Las Vegas, NV",
+        "bedrooms": 3,
+        "amenities": ["pool", "gym"]
+      },
+      {
+        "id": 16,
+        "title": "Cozy Bungalow",
+        "description": "A quaint bungalow in a quiet neighborhood.",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/7174109/pexels-photo-7174109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Kansas City, MO",
+        "bedrooms": 2,
+        "amenities": ["garden", "wifi"]
+      },
+      {
+        "id": 17,
+        "title": "Luxury Apartment",
+        "description": "An elegant apartment in the city center.",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/6908367/pexels-photo-6908367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Seattle, WA",
+        "bedrooms": 2,
+        "amenities": ["gym", "wifi"]
+      },
+      {
+        "id": 18,
+        "title": "Family Farmhouse",
+        "description": "A spacious farmhouse with lots of character.",
+        "price": 210,
+        "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Raleigh, NC",
+        "bedrooms": 4,
+        "amenities": ["garden", "porch"]
+      },
+      {
+        "id": 19,
+        "title": "Ski Resort Lodge",
+        "description": "A charming lodge near the ski resort.",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/6580230/pexels-photo-6580230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Lake Tahoe, CA",
+        "bedrooms": 3,
+        "amenities": ["fireplace", "hot tub"]
+      },
+      {
+        "id": 20,
+        "title": "Ocean View House",
+        "description": "A stunning house with an ocean view.",
+        "price": 330,
+        "image": "https://images.pexels.com/photos/6775268/pexels-photo-6775268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Santa Monica, CA",
+        "bedrooms": 4,
+        "amenities": ["pool", "balcony"]
+      },
+      {
+        "id": 21,
+        "title": "Beach House",
+        "description": "A beautiful beach house with a stunning view.",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/1438834/pexels-photo-1438834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Miami, FL",
+        "bedrooms": 3,
+        "amenities": ["pool", "wifi"]
+      },
+      {
+        "id": 22,
+        "title": "Mountain Cabin",
+        "description": "A cozy cabin in the mountains.",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/1795508/pexels-photo-1795508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Denver, CO",
+        "bedrooms": 2,
+        "amenities": ["fireplace", "hot tub"]
+      },
+      {
+        "id": 23,
+        "title": "City Apartment",
+        "description": "A modern apartment in the heart of the city.",
+        "price": 200,
+        "image": "https://images.pexels.com/photos/2090653/pexels-photo-2090653.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "location": "New York, NY",
+        "bedrooms": 1,
+        "amenities": ["gym", "wifi"]
+      },
+      {
+        "id": 24,
+        "title": "Countryside Cottage",
+        "description": "A charming cottage in the countryside.",
+        "price": 100,
+        "image": "https://images.pexels.com/photos/1560065/pexels-photo-1560065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Nashville, TN",
+        "bedrooms": 2,
+        "amenities": ["garden", "wifi"]
+      },
+      {
+        "id": 25,
+        "title": "Lakeside Villa",
+        "description": "A luxurious villa by the lake.",
+        "price": 300,
+        "image": "https://images.pexels.com/photos/449461/pexels-photo-449461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Orlando, FL",
+        "bedrooms": 4,
+        "amenities": ["pool", "dock"]
+      },
+      {
+        "id": 26,
+        "title": "Urban Loft",
+        "description": "A chic loft in a trendy urban neighborhood.",
+        "price": 220,
+        "image": "https://images.pexels.com/photos/2194399/pexels-photo-2194399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Los Angeles, CA",
+        "bedrooms": 2,
+        "amenities": ["gym", "wifi"]
+      },
+      {
+        "id": 27,
+        "title": "Suburban Home",
+        "description": "A comfortable family home in the suburbs.",
+        "price": 180,
+        "image": "https://images.pexels.com/photos/2510067/pexels-photo-2510067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Dallas, TX",
+        "bedrooms": 3,
+        "amenities": ["garden", "garage"]
+      },
+      {
+        "id": 28,
+        "title": "Penthouse Suite",
+        "description": "A luxurious penthouse with a panoramic view.",
+        "price": 350,
+        "image": "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "San Francisco, CA",
+        "bedrooms": 3,
+        "amenities": ["roof deck", "wifi"]
+      },
+      {
+        "id": 29,
+        "title": "Riverside Retreat",
+        "description": "A peaceful retreat by the river.",
+        "price": 270,
+        "image": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "location": "Portland, OR",
+        "bedrooms": 2,
+        "amenities": ["dock", "fire pit"]
+      },
+      {
+        "id": 30,
+        "title": "Oceanfront Condo",
+        "description": "A modern condo with ocean views.",
+        "price": 320,
+        "image": "https://images.pexels.com/photos/2371975/pexels-photo-2371975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "San Diego, CA",
+        "bedrooms": 2,
+        "amenities": ["pool", "wifi"]
+      },
+      {
+        "id": 31,
+        "title": "Historic Mansion",
+        "description": "A grand mansion with historical charm.",
+        "price": 400,
+        "image": "https://images.pexels.com/photos/388830/pexels-photo-388830.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "location": "Charleston, SC",
+        "bedrooms": 5,
+        "amenities": ["garden", "fireplace"]
+      },
+      {
+        "id": 32,
+        "title": "Desert Oasis",
+        "description": "A serene retreat in the desert.",
+        "price": 230,
+        "image": "https://images.pexels.com/photos/2653168/pexels-photo-2653168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Phoenix, AZ",
+        "bedrooms": 3,
+        "amenities": ["pool", "garden"]
+      },
+      {
+        "id": 33,
+        "title": "Luxury Chalet",
+        "description": "An upscale chalet with premium amenities.",
+        "price": 280,
+        "image": "https://images.pexels.com/photos/2566860/pexels-photo-2566860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Aspen, CO",
+        "bedrooms": 4,
+        "amenities": ["hot tub", "fireplace"]
+      },
+      {
+        "id": 34,
+        "title": "Gated Community Home",
+        "description": "A secure home in a gated community.",
+        "price": 240,
+        "image": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Atlanta, GA",
+        "bedrooms": 3,
+        "amenities": ["garden", "security"]
+      },
+      {
+        "id": 35,
+        "title": "Modern Villa",
+        "description": "A sleek villa with modern design.",
+        "price": 310,
+        "image": "https://images.pexels.com/photos/7031602/pexels-photo-7031602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Las Vegas, NV",
+        "bedrooms": 3,
+        "amenities": ["pool", "gym"]
+      },
+      {
+        "id": 36,
+        "title": "Cozy Bungalow",
+        "description": "A quaint bungalow in a quiet neighborhood.",
+        "price": 160,
+        "image": "https://images.pexels.com/photos/7174109/pexels-photo-7174109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Kansas City, MO",
+        "bedrooms": 2,
+        "amenities": ["garden", "wifi"]
+      },
+      {
+        "id": 37,
+        "title": "Luxury Apartment",
+        "description": "An elegant apartment in the city center.",
+        "price": 290,
+        "image": "https://images.pexels.com/photos/6908367/pexels-photo-6908367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Seattle, WA",
+        "bedrooms": 2,
+        "amenities": ["gym", "wifi"]
+      },
+      {
+        "id": 38,
+        "title": "Family Farmhouse",
+        "description": "A spacious farmhouse with lots of character.",
+        "price": 210,
+        "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Raleigh, NC",
+        "bedrooms": 4,
+        "amenities": ["garden", "porch"]
+      },
+      {
+        "id": 39,
+        "title": "Ski Resort Lodge",
+        "description": "A charming lodge near the ski resort.",
+        "price": 250,
+        "image": "https://images.pexels.com/photos/6580230/pexels-photo-6580230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Lake Tahoe, CA",
+        "bedrooms": 3,
+        "amenities": ["fireplace", "hot tub"]
+      },
+      {
+        "id": 40,
+        "title": "Ocean View House",
+        "description": "A stunning house with an ocean view.",
+        "price": 330,
+        "image": "https://images.pexels.com/photos/6775268/pexels-photo-6775268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "location": "Santa Monica, CA",
+        "bedrooms": 4,
+        "amenities": ["pool", "balcony"]
+      }
+    ]
+  }
+  
