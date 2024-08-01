@@ -42,3 +42,6 @@ contexts/ - Contains context files for managing state (e.g., CartContext, AuthCo
 App.js - Main application component.
 index.js - Entry point of the application.
 app.css - Global CSS styles.
+
+
+Deployed link:https://totalityhouse.netlify.app/
