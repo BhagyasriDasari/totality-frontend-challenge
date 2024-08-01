@@ -16,16 +16,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository-url>
-Navigate to the project directory:
-
-bash
-Copy code
-cd <project-directory>
-Install dependencies:
-
-bash
-Copy code
 npm install
 Start the development server:
 
